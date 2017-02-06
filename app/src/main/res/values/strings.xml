@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TakePicture</string>
+
+    <string name="facebook_app_id">1203848079704331</string>
+
+
+    <string name="action_erase">Очистить</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_undo">Назад</string>
+    <string name="action_color">Цвет</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_brush">Кисть</string>
+    <string name="action_settings">Фон</string>
+    <string name="action_share">Поделиться</string>
+    <string name="delete_drawing">Очистить</string>
+    <string name="new_drawing_warning">Вы действительно хотите удалить все изменения и начать заново?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="brush_size">Размер кисти:</string>
+    <string name="ok">Да</string>
+    <string name="cancel">Нет</string>
+
+</resources>
